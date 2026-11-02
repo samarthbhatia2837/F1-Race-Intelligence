@@ -3,9 +3,6 @@
 ## Project Overview
 This project analyses Formula 1 circuit data using Tableau.
 
-## Dashboard Preview
-![F1 Dashboard](f1-dashboard.png)
-
 ## Objectives
 - Analyse circuit participation by country.
 - Compare circuit altitudes.
