@@ -11,7 +11,7 @@ This project analyses Formula 1 circuit data using Tableau.
 
 ## Tools Used
 - Tableau
-- CSV dataset
+- XLSX dataset
 - GitHub
 
 ## Project Files
