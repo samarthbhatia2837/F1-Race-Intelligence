@@ -19,7 +19,7 @@ This project analyses Formula 1 circuit data using Tableau.
 - Project report
 - Dashboard screenshots
 - https://public.tableau.com/app/profile/samarth.bhatia1231/viz/Dashboard_17936361274300/Dashboard1?publish=yes (Dashboard Link)
-- https://public.tableau.com/app/profile/samarth.bhatia1231/viz/Story_17936360578690/Story1?publish=yes (Story Link)
+- https://public.tableau.com/app/profile/samarth.bhatia1231/viz/Dashboard_17936361274300/Story1?publish=yes (Story Link)
 
 ## Conclusion
 The dashboard provides a visual comparison of Formula 1 circuits and their geographical characteristics.
